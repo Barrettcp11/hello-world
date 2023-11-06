@@ -1,2 +1,2 @@
 # hello-world
-To keep ideas for my poject
+To keep ideas for my project
